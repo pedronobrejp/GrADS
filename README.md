@@ -1,6 +1,6 @@
 # GrADS
 
-Repository for meteorological data analysis
+Repository for meteorological data analysis using GrADS.
 
 # About the scripts
 
